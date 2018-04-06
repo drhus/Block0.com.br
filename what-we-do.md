@@ -6,9 +6,8 @@ subtitle: //
 
 
 ### Research & Development 
-* Interdisciplinary studies on blockchain and decentralised applications
-Mathematics, Statistics, Economics, Computer Science, Psychology, Law, Political Science
-* Implementation of 
+* Interdisciplinary studies on blockchain and decentralised applications *Mathematics, Statistics, Economics, Computer Science, Psychology, Law, Political Science*
+* Implementation of relevant projects and contribution to blockchain & open-source ecosystem 
 
 ### Education
 * Crash courses

@@ -1,0 +1,50 @@
+/* HUS TODO--- nav transparant --- 
+
+.navbar-custom.top-nav-short {
+background-color: rgba(255, 0, 0, 0.4);
+}
+*/
+
+/* --- Lists of circles --- */
+
+.list-circles {
+  text-align: center;
+}
+
+@media only screen and (min-width: 1200px) {
+  .list-circles {
+    width: 150%;
+    margin-left: -25%;
+  }
+}
+
+
+.list-circles-item {
+  display: inline-block;
+  width: 240px;
+  vertical-align: top;
+  margin: 0;
+  padding: 20px;
+}
+
+.list-circles-item:hover {
+  background: #fafafa;
+}
+
+.list-circles-item .item-img {
+  width: 200px;
+  height: 200px;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  border-radius: 50%;
+  border: 3px solid #f5f5f5;
+}
+
+.list-circles-item .item-desc {
+  font-size: 16px;
+}
+
+.list-circles-item .item-links {
+  margin-top: 5px;
+}
+

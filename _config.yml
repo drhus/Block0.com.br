@@ -127,7 +127,7 @@ share-links-active:
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-disqus: "genesisblock"
+# disqus: "genesisblock"
 
 # Facebook App ID
 # fb_app_id: ""

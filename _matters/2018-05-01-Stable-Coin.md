@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: matter
 title: Stable Coins
 subtitle: On designing a price-stable cryptocurrency
 tags: [Stable Coins, Stable, Basecoin, MakerDAO]

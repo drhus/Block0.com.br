@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: matter
 title: H/Rindex
 subtitle: The Hashing Power and Robustness Index, Computational Power-weighted Benchmark for Global Blockchain and Crypto Market
 tags: [Hindex, Rindex, Blockchain, Cryptocurrency, Hashing Rate, Distributed Ledgers, Bitcoin, Ethereum, Crypto Index, Tokens, Crypto]
@@ -19,4 +19,8 @@ To benchmark the global cryptocurrencies market from a security perspective, tra
 * [H/Rindex Paper](/files/SSRN-id3158785.pdf) and the relevant [Function application Spreadsheet](https://docs.google.com/spreadsheets/d/1CGyMPvkvtzZI1s6qLel2FSbWZm-niPaZQkpmWZpH_1U/edit#gid=1704959642) 
 
 
+#
 
+
+
+.

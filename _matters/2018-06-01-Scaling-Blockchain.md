@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: matter
 title: Scaling Blockchain
 subtitle: Lightning Network, Plasma and Other solutions
 tags: [Scaling, Plasma, Lightning Network, Raiden]

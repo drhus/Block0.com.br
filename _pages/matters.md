@@ -6,7 +6,8 @@ permalink: /matters/
 ---
 
 <div class="posts-list">
-  {% for matter in paginator.matters %}
+  <!--  # for matter in paginator.matters \ -->
+  {% for matter in site.matters %}  
   <article class="post-preview">
     <a href="{{ matter.url | prepend: site.baseurl }}">
 	  <h2 class="post-title">{{ matter.title }}</h2>
@@ -35,9 +36,8 @@ permalink: /matters/
 
    </article>
   {% endfor %}
-</div>
-
-{% if paginator.total_pages > 1 %}
+  
+  {% if paginator.total_pages > 1 %}
 <ul class="pager main-pager">
   {% if paginator.previous_page %}
   <li class="previous">
@@ -51,3 +51,4 @@ permalink: /matters/
   {% endif %}
 </ul>
 {% endif %}
+</div>

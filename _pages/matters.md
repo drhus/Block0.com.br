@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Matters
-subtitle: //and Projects
+subtitle: //
+permalink: /matters/
 ---
 
 <div class="posts-list">

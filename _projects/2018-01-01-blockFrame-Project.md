@@ -17,8 +17,7 @@ author: Husam ABBOUD
 [blockFrame Original Paper](https://ssrn.com/abstract=3064115 )
 
 # Chart 
- <div id="blockFrame-container" style="height: 50vh; width: 50vw;"></div>
-
+<iframe src="http://data.blockframe.xyz/?blocks=72" style="height:330px;width:100%;border:none;" scrolling="no"></iframe>
 
 # Why
  **Native blockchain experiance**

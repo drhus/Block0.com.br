@@ -16,7 +16,7 @@ To benchmark the global cryptocurrencies market from a security perspective, tra
 2. The Rindex "Robustness index" Crypto Robustness Index: is a cryptocurrencies robustness and 51% attack resistance-weighted Index.
 
 # Read list
-* [H/Rindex Paper](/files/SSRN-id3158785.pdf) and the relevant [Function application Spreadsheet](https://docs.google.com/spreadsheets/d/1CGyMPvkvtzZI1s6qLel2FSbWZm-niPaZQkpmWZpH_1U/edit#gid=1704959642) 
+* [H/Rindex Paper](files/SSRN-id3158785.pdf) and the relevant [Function application Spreadsheet](https://docs.google.com/spreadsheets/d/1CGyMPvkvtzZI1s6qLel2FSbWZm-niPaZQkpmWZpH_1U/edit#gid=1704959642) 
 
 
 #

@@ -167,6 +167,9 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
+  matters:
+    output: true
+    permalink: /matters/:path/    
 
 news_limit: 5  
 

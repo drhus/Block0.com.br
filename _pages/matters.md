@@ -6,27 +6,27 @@ permalink: /matters/
 ---
 
 <div class="posts-list">
-  {% for post in paginator.posts %}
+  {% for matter in paginator.matters %}
   <article class="post-preview">
-    <a href="{{ post.url | prepend: site.baseurl }}">
-	  <h2 class="post-title">{{ post.title }}</h2>
-	  {% if post.subtitle %}
+    <a href="{{ matter.url | prepend: site.baseurl }}">
+	  <h2 class="post-title">{{ matter.title }}</h2>
+	  {% if matter.subtitle %}
 	  <h3 class="post-subtitle">
-	    {{ post.subtitle }}
+	    {{ matter.subtitle }}
 	  </h3>
 	  {% endif %}
     </a>
 
 	<span class="post-meta">
-    <time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date: "%B %-d" }}</time>
+    <time datetime="{{ matter.date | date: "%Y-%m-%d" }}">{{ matter.date | date: "%B %-d" }}</time>
     {% if site.read-time %} - {% include read-time.html %} read{% endif %}
 	</span>
 
     <div class="post-entry-container">
-      {% if post.image %}
+      {% if matter.image %}
       <div class="post-image">
-        <a href="{{ post.url | prepend: site.baseurl }}">
-          <img src="{{ post.image }}">
+        <a href="{{ matter.url | prepend: site.baseurl }}">
+          <img src="{{ matter.image }}">
         </a>
       </div>
       {% endif %}

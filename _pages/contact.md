@@ -3,7 +3,7 @@ title: Contact us
 permalink: /contact/
 ---
 
-If you want to get in touch with genesisBlock, you can either email <a href="mailto:jgomes@fecap.br">Prof. Jésus Gomes</a> or fill out the form below. 
+If you want to get in touch with genesisBlock, you can either email <a href="mailto:genesis.block@fecap.edu.br">Prof. Jésus Gomes</a> or fill out the form below. 
 
 <form action="https://formspree.io/fecap@drhus.com" method="POST" class="form" id="contact-form">
   <div class="row">

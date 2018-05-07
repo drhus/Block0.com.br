@@ -1,9 +1,9 @@
 ---
 title: Contact us
 permalink: /contact/
-js-href: /js/gform-submission-handler.js
-ext-js: /js/gform-submission-handler.js
-js-sri: /js/gform-submission-handler.js
+js-href: /js/gform-submission-handlerxx.js
+ext-js: /js/gform-submission-handleryy.js
+js-sri: /js/gform-submission-handlerzz.js
 common-js:
   - "/js/gform-submission-handler.js"
 

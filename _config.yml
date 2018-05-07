@@ -80,9 +80,9 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "jesus@fecap.br"
+  email: "genesis.block@fecap.edu.br"
   facebook: FECAP
-  github: drhus/lab
+  github: drhus/Block0.com.br
 #  twitter: Fecap
 #  reddit: yourname
 #  google-plus: +DeanAttali

@@ -11,6 +11,8 @@ permalink: /what-we-do/
 * Legal & Regulatory Aspects - Blockchain and Cryptoassets
 * Sociopolitical - Blockchain, Cryptoeconomics and International Conflicts Resolution
 
+*and the implementation of relevant projects and contribution to blockchain & open-source ecosystem*
+
 ### Education
 * Crash courses
 * Seminars, Workshops, Hackathons & Events

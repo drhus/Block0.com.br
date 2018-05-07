@@ -5,7 +5,8 @@ js-href: /js/gform-submission-handler.js
 ext-js: /js/gform-submission-handler.js
 bigimg: /img/bg103.jpg
 js-sri: /js/gform-submission-handler.js
-
+common-js:
+  - "/js/gform-submission-handler.js"
 
 ---
 

@@ -1,12 +1,7 @@
 ---
 title: Contact us
 permalink: /contact/
-js-href: /js/gform-submission-handlerxx.js
-ext-js: /js/gform-submission-handleryy.js
-js-sri: /js/gform-submission-handlerzz.js
-common-js:
-  - "/js/gform-submission-handler.js"
-
+ext-js: /js/gform-submission-handler.js
 ---
 
 If you want to get in touch with genesisBlock, you can either email <a href="mailto:genesis.block@fecap.edu.br">Prof. Jésus Gomes</a> or fill out the form below. 

@@ -18,7 +18,10 @@ If you want to get in touch with genesisBlock, you can either email <a href="mai
   </div>
   <input type="hidden" name="_subject" value="New submission from genesisBlock website">
   <textarea type="text" name="content" class="form-control input-lg" placeholder="Message" title="Message" required="required" rows="3"></textarea>
-  <input type="text" name="_gotcha" style="display:none">
-  <input type="hidden" name="_next" value="./contact?message=Your message was sent successfully, thanks!" />
+
   <button type="submit" class="btn btn-lg btn-primary">Submit</button>
 </form>
+
+  <div style="display:none;" id="thankyou_message">
+    <h2><em>Done!</em></h2>
+  </div>

@@ -7,11 +7,9 @@ permalink: /what-we-do/
 
 
 ### Research & Development 
-* Technological aspects - Interdisciplinary studies on blockchain and decentralised applications 
+* Technological Aspects - Interdisciplinary studies on blockchain and decentralised applications 
 * Legal & Regulatory Aspects - Blockchain and Cryptoassets
-* Sociopolitical - Blockchain, Cryptoeconomics and International Conflicts Resolution
-
-*and the implementation of relevant projects and contribution to blockchain & open-source ecosystem*
+* Sociopolitical Aspects - Blockchain, Cryptoeconomics and International Conflicts Resolution
 
 ### Education
 * Crash courses

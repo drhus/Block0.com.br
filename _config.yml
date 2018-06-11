@@ -6,7 +6,9 @@
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
 # url: "http://drhus.github.io/lab"
 # baseurl: "/lab"
-url: "http://block0.com.br" 
+#url: "http://block0.com.br" 
+url: "http://genesisblock.fecap.br" 
+
 #baseurl: "/lab"
 
 # If you are building a GitHub project page then use these settings:
@@ -19,7 +21,7 @@ url: "http://block0.com.br"
 title: Genesis Block 
 
 # Short description of your site
-description: The Blockchain Lab of FECAP University
+description: The Blockchain Lab @ FECAP University
 
 # --- Navigation bar options --- #
 
@@ -80,9 +82,9 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "genesis.block@fecap.edu.br"
+  email: "genesisblock@fecap.br"
   facebook: FECAP
-  github: drhus/Block0.com.br
+  github: drhus/GenesisBlock.fecap.br
 #  twitter: Fecap
 #  reddit: yourname
 #  google-plus: +DeanAttali
